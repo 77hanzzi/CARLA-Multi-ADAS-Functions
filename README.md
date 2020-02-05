@@ -10,4 +10,4 @@ Finally, based on the summarized scenario design process, this project builds mu
 ## Experiment Demo
 <div align=center><img width="400" height="200" src="https://github.com/HanzhiC/CARLA-Intelligent-Cruise-System/blob/master/Image/4.png"/></div>
 <div align=center><img width="400" height="200" src="https://github.com/HanzhiC/CARLA-Intelligent-Cruise-System/blob/master/Image/3.png"/></div>
-<div align=center><img width="600" height="300" src="https://github.com/HanzhiC/CARLA-Intelligent-Cruise-System/blob/master/Image/2.png"/></div>
+<div align=center><img width="560" height="280" src="https://github.com/HanzhiC/CARLA-Intelligent-Cruise-System/blob/master/Image/2.png"/></div>
