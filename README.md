@@ -9,3 +9,4 @@ Finally, based on the summarized scenario design process, this project builds mu
 
 
 <div align=left><img width="300" height="150" src="https://github.com/HanzhiC/CARLA-Intelligent-Cruise-System/blob/master/Image/4.png"/></div>
+<div align=center><img width="300" height="150" src="https://github.com/HanzhiC/CARLA-Intelligent-Cruise-System/blob/master/Image/3.png"/></div>
