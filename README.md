@@ -8,5 +8,6 @@ Secondly, this project tests and improves the system based on the intelligent dr
 Finally, based on the summarized scenario design process, this project builds multiple test scenarios and designs the corresponding test flow, and carries out virtual test experiments on the designed system. Through multiple experimental data analysis, the system designed in this project can integrate multiple assisted driving functions reasonably, and can switch different functions quickly and accurately under different working conditions, meeting the expected requirements. In addition, the virtual experiment-based development process provides a solution for rapid iteration, cost control and early troubleshooting of driving systems.
 
 
-<div align=left><img width="300" height="150" src="https://github.com/HanzhiC/CARLA-Intelligent-Cruise-System/blob/master/Image/4.png"/></div>
-<div align=center><img width="300" height="150" src="https://github.com/HanzhiC/CARLA-Intelligent-Cruise-System/blob/master/Image/3.png"/></div>
+<div align=left><img width="400" height="200" src="https://github.com/HanzhiC/CARLA-Intelligent-Cruise-System/blob/master/Image/4.png"/></div>
+<div align=left><img width="400" height="200" src="https://github.com/HanzhiC/CARLA-Intelligent-Cruise-System/blob/master/Image/3.png"/></div>
+<div align=left><img width="400" height="200" src="https://github.com/HanzhiC/CARLA-Intelligent-Cruise-System/blob/master/Image/2.png"/></div>
